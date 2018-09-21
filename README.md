@@ -1,8 +1,7 @@
 # Python Web API Workshop Materials
 
 This repository contains example code to use in learning to work with RESTful
-web APIs in Python. The main notebook file is called `Geonames.ipynb`, and uses
-the `botanical_gardens.csv` data file.
+web APIs in Python. This branch uses the Harvard Art Museums API; for the original botanical gardens dataset, please see release v1.0.0.
 
 You can download the repository either with
 `git clone https://github.com/artshumrc/python-web-apis.git` from the terminal,
