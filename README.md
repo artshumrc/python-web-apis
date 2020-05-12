@@ -1,4 +1,6 @@
-# Python Web API Workshop Materials: Fall 2019
+# Python Web API Workshop Materials: Datafest - January 2020
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artshumrc/python-web-apis/datafest2020)
 
 This repository contains example code to use in learning to work with RESTful
 web APIs in Python. The main notebook file is called `harvard_art_museum_api.pynb`.
